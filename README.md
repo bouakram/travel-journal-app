@@ -1,7 +1,7 @@
 # Travel-jornal-app
 this is a simple app by react js.\
 
-![travel jornal]().
+![travel jornal](https://github.com/bouakram/travel-journal-app/blob/master/src/travel-journal.png).
 
 ## what is react js 
 
