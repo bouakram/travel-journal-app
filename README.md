@@ -1,5 +1,6 @@
-# Travel-jornal-app
-this is a simple app by react js.
+# Travel journal app
+this is a simple react js app.
+I practiced all the skills that i learned until now from react in this app thanks to ![Bob Ziroll](https://twitter.com/bobziroll) <3
 
 ![travel jornal](https://github.com/bouakram/travel-journal-app/blob/master/src/travel-journal.png).
 
