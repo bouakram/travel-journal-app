@@ -3,6 +3,8 @@ this is a simple app by react js.
 
 ![travel jornal](https://github.com/bouakram/travel-journal-app/blob/master/src/travel-journal.png).
 
+[play demo](http://localhost:3000)
+
 ## what is react js 
 
 react js is a JavaScript library for building user interfaces.
