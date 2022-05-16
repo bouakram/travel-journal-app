@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import Nav from './components/Nav';
+import Main from './components/Main';
+import JornalData from './Jornal-Data';
+
+// <i class="ri-map-pin-2-fill"></i> location icon
+
 
 function App() {
+  const main = JornalData.map((item) =>
+    <Main 
+      items = {item}
+    />
+  )
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Nav />
+      {main}
     </div>
   );
 }
