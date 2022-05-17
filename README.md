@@ -2,7 +2,7 @@
 this is a simple react js app.
 I practiced all the skills that i learned until now from react in this app thanks to [Bob Ziroll](https://twitter.com/bobziroll "Bob Ziroll twitter account") <3
 
-![travel jornal](https://github.com/bouakram/travel-journal-app/blob/master/src/travel-journal.png).
+![travel jornal](https://github.com/bouakram/travel-journal-app/blob/master/src/travel-journal.png)
 
 [play demo](http://localhost:3000)
 
